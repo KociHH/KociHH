@@ -20,7 +20,7 @@ Backend‑разработчик на <b>Python</b> и других сервер
 ### Особые проекты
 - Invisibly — мессенджер: [Invisibly](https://github.com/KociHH/Invisibly)  
 - Telegram bots: [meetbot](https://github.com/KociHH/meetbot) | [Service_Vpn_TgBot](https://github.com/KociHH/Service_Vpn_TgBot)
-- Libraries: [Kos_Htools]((https://github.com/KociHH/helping_lib))
+- Libraries: [Kos_Htools](https://github.com/KociHH/helping_lib)
 
 
 ### Мои ссылки
