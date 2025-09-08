@@ -2,7 +2,7 @@
 <p align="center">
 Backend разработчик на Python и других серверных языках. Обожаю чистый и поддерживаемый код.
 </p>
-
+й
 ---
 
 ### О себе
@@ -21,9 +21,5 @@ Backend разработчик на Python и других серверных я
 - Invisibly (мессенджер): [Invisibly](https://github.com/KociHH/Invisibly)  
 - Telegram bots: [meetbot](https://github.com/KociHH/meetbot) · [Service_Vpn_Bot](https://github.com/KociHH/Service_Vpn_Bot)
 - Libraries: [Kos_Htools](https://github.com/KociHH/helping_lib)
-
-
-### Мои ссылки
-- Tg: https://t.me/KociHH
 
 ---
