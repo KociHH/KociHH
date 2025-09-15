@@ -18,7 +18,7 @@ Backend разработчик на Python. Обожаю чистый и под�
 - Docker · Linux
 
 ### Особые проекты
-- Invisibly (мессенджер): [Invisibly](https://github.com/KociHH/Invisibly)  
+- Invisibly (мессенджер *в разработке): [Invisibly](https://github.com/KociHH/Invisibly)  
 - Telegram bots: [meetbot](https://github.com/KociHH/meetbot) · [Service_Vpn_Bot](https://github.com/KociHH/Service_Vpn_Bot)
 - Libraries: [Kos_Htools](https://github.com/KociHH/helping_lib)
 
