@@ -21,7 +21,12 @@ Backend Python developer. I love clean and maintainable code.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Special projects
-- Web API: [Invisibly](https://github.com/KociHH/Invisibly) [TodoApi](https://github.com/KociHH/TodoApi) 
-- Telegram bots: [meetbot](https://github.com/KociHH/meetbot) [Service_Vpn_Bot](https://github.com/KociHH/Service_Vpn_Bot)
-- Lib: [Kos_Htools](https://github.com/KociHH/helping_lib)
+- Web API:
+  - [Invisibly](https://github.com/KociHH/Invisibly)
+  - [TodoApi](https://github.com/KociHH/TodoApi)
+- Telegram bots:
+  - [meetbot](https://github.com/KociHH/meetbot)
+  - [Service_Vpn_Bot](https://github.com/KociHH/Service_Vpn_Bot)
+- Lib:
+  - [Kos_Htools](https://github.com/KociHH/helping_lib)
 
