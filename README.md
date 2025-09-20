@@ -30,3 +30,5 @@ Backend Python developer. I love clean and maintainable code.
 - Lib:
   - [Kos_Htools](https://github.com/KociHH/helping_lib)
 
+### WakaTime
+[![wakatime](https://wakatime.com/badge/user/d5390ddd-1482-47c8-908c-414c11faab50.svg)](https://wakatime.com/@d5390ddd-1482-47c8-908c-414c11faab50)
