@@ -3,15 +3,13 @@
 Backend Python developer. I love clean and maintainable code.
 </p>
 
-<h2>About Me</h2>
-<p>
+### About Me
 - I write in Python and have been working with the server stack for over a year; I'm interested in architecture and performance.
 - I build pet projects: from Telegram bots to web services.
 - I have experience in DevOps (CI/CD, containerization), server deployment, and frontend project setup.
 - Interests: software development, AI, network protocols, and everything related to this area.
-</p>
 
-<h2>Technologies</h2>
+### Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -22,7 +20,7 @@ Backend Python developer. I love clean and maintainable code.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2>Special projects</h2>
+### Special projects
 - Web API: [Invisibly](https://github.com/KociHH/Invisibly) [TodoApi](https://github.com/KociHH/TodoApi) 
 - Telegram bots: [meetbot](https://github.com/KociHH/meetbot) [Service_Vpn_Bot](https://github.com/KociHH/Service_Vpn_Bot)
 - Lib: [Kos_Htools](https://github.com/KociHH/helping_lib)
