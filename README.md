@@ -9,8 +9,6 @@ Backend Python developer. I love clean and maintainable code.
 - I have experience in DevOps (CI/CD, containerization), server deployment, and frontend project setup.
 - Interests: software development, AI, network protocols, and everything related to this area.
 
----
-
 ### Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,8 +19,6 @@ Backend Python developer. I love clean and maintainable code.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ### Special projects
 - Web API:
