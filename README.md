@@ -22,4 +22,4 @@ Backend Python developer. I love clean and maintainable code.
 
 ### Statistics
 [![wakatime](https://wakatime.com/badge/user/d5390ddd-1482-47c8-908c-414c11faab50.svg)](https://wakatime.com/@d5390ddd-1482-47c8-908c-414c11faab50)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d5390ddd-1482-47c8-908c-414c11faab50/6f1db2df-3272-4368-b6d8-7505ad35ab6b.png" /></a>
+<img src="https://wakatime.com/share/@d5390ddd-1482-47c8-908c-414c11faab50/6f1db2df-3272-4368-b6d8-7505ad35ab6b.png" />
