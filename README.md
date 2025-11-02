@@ -19,6 +19,7 @@ Backend Python developer. I love clean and maintainable code.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Statistics
 [![wakatime](https://wakatime.com/badge/user/d5390ddd-1482-47c8-908c-414c11faab50.svg)](https://wakatime.com/@d5390ddd-1482-47c8-908c-414c11faab50)
