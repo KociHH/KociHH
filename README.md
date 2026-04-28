@@ -4,7 +4,7 @@ Backend Python developer. I love clean and maintainable code.
 </p>
 
 ### About Me
-- I write in Python and have been working with the server stack for over a year; I'm interested in architecture and performance.
+- I write in Python and have been working with the server stack for over two years; I'm interested in architecture and performance.
 - I build pet projects: from Telegram bots to web services.
 - I have experience in DevOps (CI/CD, containerization), server deployment, and frontend project setup.
 - Interests: software development, AI, network protocols, and everything related to this area.
@@ -21,6 +21,3 @@ Backend Python developer. I love clean and maintainable code.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Statistics
-[![wakatime](https://wakatime.com/badge/user/d5390ddd-1482-47c8-908c-414c11faab50.svg)](https://wakatime.com/@d5390ddd-1482-47c8-908c-414c11faab50)
-<img src="https://wakatime.com/share/@d5390ddd-1482-47c8-908c-414c11faab50/6f1db2df-3272-4368-b6d8-7505ad35ab6b.png" />
